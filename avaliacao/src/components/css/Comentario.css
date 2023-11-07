@@ -1,0 +1,24 @@
+.containerComment {
+    background: #ededed;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+.userThings {
+    display: flex;
+    align-items: center;
+}
+
+.userThings img {
+    margin-right: 8px;
+    border-radius: 100%;
+    height: 100px;
+}
+ 
+.userThings h2 {
+    font-size: 20px;
+}
+
+.comment {
+    margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+.categoria {
+    margin-bottom: 8px;
+}
+
+.titulo {
+    margin-bottom: 10px;
+}
+
+.image {
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.descricao {
+    text-align: justify;
+}
